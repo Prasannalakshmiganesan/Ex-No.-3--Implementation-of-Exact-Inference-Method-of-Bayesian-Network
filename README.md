@@ -20,7 +20,8 @@ Step 7: Print the results.<br>
 ```
 Reg.no: 212222240075
 Name: Prasannalakshmi G 
-
+```
+```python
 from pgmpy.models import BayesianNetwork
 from pgmpy.factors.discrete import TabularCPD
 from pgmpy.inference import VariableElimination
